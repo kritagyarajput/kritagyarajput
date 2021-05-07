@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/67998608/117439922-12f21980-af51-11eb-82ad-3ca9681665d3.png)
 
 <!--
 **kritagyarajput/kritagyarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
