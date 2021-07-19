@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/kritagyarajput" target="blank"><img src="https://img.shields.io/twitter/follow/kritagyarajput?logo=twitter&style=for-the-badge" alt="kritagyarajput" /></a> </p>
 
-- 🔭 I’m currently working on **BeHealthy**
-
+<!-- - 🔭 I’m currently working on **BeHealthy**
+ -->
 - 🌱 I’m currently learning **Flutter Web,HTML,CSS,REACT**
 
 - 👯 I’m looking to collaborate on **Flutter**
