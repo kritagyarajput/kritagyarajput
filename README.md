@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px">,I'm Kritagya Rajput</h1>
+<h1 align="center">Hi<img src="https://cdn-icons.flaticon.com/png/512/2339/premium/2339864.png?token=exp=1656273313~hmac=193a88087ff116eea8b723f7623737ac" width="2px">,I'm Kritagya Rajput</h1>
 <h3 align="center">A passionate frontend developer from India currently pursuing bachelors in technology in computer science and working as a front end developer as a freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritagyarajput&label=Profile%20views&color=0e75b6&style=flat" alt="kritagyarajput" /> </p>
